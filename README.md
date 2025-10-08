@@ -1,4 +1,4 @@
-# DBMS Project – Cab Booking System  
+# Cab Booking System  
 
 A project developed as part of the **DBMS course (4th Semester)** with collaborator **Dhruv Garg (2021386)**.  
 
